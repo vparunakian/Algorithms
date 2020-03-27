@@ -1,4 +1,4 @@
-# PercolationJava
+# Percolation
 This is a Java language implementation of Programming Assignment 1 from https://www.coursera.org/learn/algorithms-part1/ course
 
 I have used one WeightedQuickUnion data structure and no virtual sites. Backwashing problem is non-existent. Bonus memory test PASSED. 
